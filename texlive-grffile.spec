@@ -3,7 +3,7 @@ Version:	52756
 Release:	2
 Summary:	Extended file name support for graphics (legacy package)
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/grffile
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/grffile
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/grffile.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/grffile.doc.r%{version}.tar.xz
